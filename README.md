@@ -78,7 +78,9 @@ The cloud configuration requests **pw-chromium / Windows 10** and **pw-firefox /
 
 ## GitHub and submission
 
-The project was uploaded to [Vasu-Behl/playwright-101-assignment](https://github.com/Vasu-Behl/playwright-101-assignment), and its **Private** visibility was verified in GitHub. At the owner's request, no assessor invitation was sent; access remains with the owner for now.
+The project is available at [Vasu-Behl/playwright-101-assignment](https://github.com/Vasu-Behl/playwright-101-assignment). Its visibility was changed to **Public** on 22 October 2026 at the owner's request so it can be shared. No assessor invitation was sent. The PDF's private-repository requirement is therefore not currently met.
+
+To copy the main scenario code, open [tests/assignment.spec.ts](https://github.com/Vasu-Behl/playwright-101-assignment/blob/main/tests/assignment.spec.ts) and use **Copy raw file** or **Raw**. To run it, download or clone the whole repository: the tests import helpers from `support/` and need the package and Playwright configuration files.
 
 Use a **private** repository. Source, lockfile, configuration and documentation belong in Git; dependencies, credentials and fresh runtime reports are ignored. The `evidence/` snapshot contains the local verification record and selected screenshots.
 

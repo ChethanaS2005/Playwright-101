@@ -47,7 +47,7 @@ The strict diagnostic is intentional, separate from the six-test local acceptanc
 - Local Chromium and Edge share the Chromium engine and run on the same Windows host. This does not prove Firefox/macOS support or satisfy the assignment's cloud execution requirement.
 - Cloud connection, cloud artifact delivery and account-specific browser/OS availability require a later real cloud run.
 - Repository access for the assessor, the certification-account email and exam-portal submission are separate administrative requirements.
-- Project source and the saved verification snapshot were pushed to the private `Vasu-Behl/playwright-101-assignment` repository. The owner explicitly requested keeping it private to them; no reviewer invitation was sent.
+- Project source and the saved verification snapshot were initially pushed to the private `Vasu-Behl/playwright-101-assignment` repository. On 22 October 2026 the owner requested Public visibility for sharing, and that change was applied. No reviewer invitation was sent.
 - The PDF supplies no actual deadline. This record makes no claim about timeliness or certification acceptance.
 
 ## Evidence locations
