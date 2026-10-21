@@ -78,6 +78,8 @@ The cloud configuration requests **pw-chromium / Windows 10** and **pw-firefox /
 
 ## GitHub and submission
 
+The project was uploaded to [Vasu-Behl/playwright-101-assignment](https://github.com/Vasu-Behl/playwright-101-assignment), and its **Private** visibility was verified in GitHub. At the owner's request, no assessor invitation was sent; access remains with the owner for now.
+
 Use a **private** repository. Source, lockfile, configuration and documentation belong in Git; dependencies, credentials and fresh runtime reports are ignored. The `evidence/` snapshot contains the local verification record and selected screenshots.
 
 The assignment asks for private reviewer access for **admin@testmuaicertifications.com**. Verify the matching GitHub account when adding a collaborator; do not guess a username. Reviewer invitation and acceptance must be checked separately. Submit the repository URL and real TestMu session IDs in the exam portal. Its deadline cannot be calculated from this PDF because no actual date/time is supplied. Follow the portal's displayed deadline and clarify the PDF's ambiguous "within 36 hours of the deadline" wording if necessary.

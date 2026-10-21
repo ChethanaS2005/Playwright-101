@@ -28,8 +28,8 @@ Source: all six pages of the supplied Playwright 101 assignment PDF, including t
 | Video for all runs | Local WebM; cloud `video: true` | Local verified; cloud pending |
 | Screenshots for all runs | Final PNG + trace screenshots; cloud `visual: true` | Local verified; cloud pending |
 | Console logs for all runs | Captured console/page errors; cloud `console: true` | Local verified; cloud pending |
-| Push project to GitHub | Source package prepared; see final delivery for repository status | Separate publishing step |
-| Keep repository private and share with named reviewer | Reviewer address preserved in README; identity must be verified | Reviewer access pending |
+| Push project to GitHub | Uploaded to Vasu-Behl/playwright-101-assignment | Complete; remote branch verified |
+| Keep repository private and share with named reviewer | GitHub shows Private; owner requested no assessor invitation yet | Private complete; sharing deliberately deferred |
 | Submit repository URL and real TestMu session IDs | `npm run sessions` produces actual IDs only after cloud runs | Pending cloud execution and portal submission |
 | Submit within stated time window | PDF gives no actual deadline date/time | Must check exam portal |
 | Account email matches certification registration | No TestMu account supplied; user requested local testing | Not verified |
