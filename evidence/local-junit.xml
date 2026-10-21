@@ -1,0 +1,116 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="34.398677000000006">
+<testsuite name="assignment.spec.ts" timestamp="2026-10-21T18:23:36.513Z" hostname="local-chromium" tests="3" failures="0" skipped="0" time="28.568" errors="0">
+<testcase name="Scenario 1 - Simple Form Demo echoes the message" classname="assignment.spec.ts" time="9.481">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\Final-screenshot-65197d1b83f40d8490659a32a010807b862b4ffc.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\trace-5b3b2ea986e8008f2339e28c60486e3e46f4ace3.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\console-log-6ae0ae30eb6d927bb9b5a4d47e70e4ff633d0085.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\network-log-d34e9c159998917bea3a11115bd0bd4f36552b67.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\Network-HAR-3d89a40ea0a228d12341db1a8fb19b71502ad7cb.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-chromium\attachments\video-77dd34aeda8611612de58bbe8341193f5e1eac36.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Scenario 2 - Drag Default value 15 to 95" classname="assignment.spec.ts" time="7.731">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\Final-screenshot-3841cc0d8ee209637365d5c8f534f13f399de376.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\trace-789c5d29f653e6297ed1c6b9e086a94b9a70bd73.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\console-log-abd18638326f8f88c27edf7b2b57719ab44b4993.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\network-log-af6837fcb45e724d5c711ac03e8b5e57aa5701cc.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\Network-HAR-8eceac47efdeb667bcac3af3ece6b92a63721864.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-chromium\attachments\video-fbc4b885529372a6d71ebf19a51e299cc855edd3.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Scenario 3 - Required-field validation and successful submission" classname="assignment.spec.ts" time="11.356">
+<properties>
+<property name="assignment-discrepancy" value="PDF: &quot;Please fill in the fields&quot;; native chromium: &quot;Please fill out this field.&quot;. See docs/REQUIREMENTS.md.">
+</property>
+</properties>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\Final-screenshot-4ea7aea007a9c7ac9ca2c2e3e326de45a3eca889.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\trace-ee1ca5fcf012f11ee2313ebebfa0463734eee479.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\console-log-4dc8e0a2501f0fda4d776ac1fd7ac6f9123fcd47.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\network-log-8f9a827e2b2e0d6dcdc12d3237e56b675893f3a1.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\Network-HAR-830b12ad52301ab78892033513f2e374b5d9a516.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-chromium\attachments\video-3f984d7d8635c63ab6d3c6fb376be7340ebed96d.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="assignment.spec.ts" timestamp="2026-10-21T18:23:36.513Z" hostname="local-edge" tests="3" failures="0" skipped="0" time="32.642" errors="0">
+<testcase name="Scenario 1 - Simple Form Demo echoes the message" classname="assignment.spec.ts" time="10.497">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\Final-screenshot-2d598cccafd3d58487977dade7f96f1388d93d90.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\trace-128579d239bb75e1241acf8772e73712679d0f01.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\console-log-2ffbfddbd230f282daf7e35f97005c3db9c45d3a.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\network-log-386bfc0558b0daaf40da32fea4e92121d43819ff.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\Network-HAR-f217565200319b2aa262124881a20fdcca060201.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-1---Simple-Form-Demo-echoes-the-message-local-edge\attachments\video-70b0426ee9747d5ea08baf8f4e7545280531e34c.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Scenario 2 - Drag Default value 15 to 95" classname="assignment.spec.ts" time="8.806">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\Final-screenshot-0708eeb29b99c5658cb243bc063c2f35b31b6a6f.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\trace-f5a72762c146c6e196a5680cf12ebf1a012f4957.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\console-log-8b7e0084a22bb9ee82db71aa834341b761360bbe.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\network-log-c541da4e009afa89c1fff1d54062a0ff36c60675.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\Network-HAR-5b925189746df8bff97a390d4f4381ef8ea32118.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-2---Drag-Default-value-15-to-95-local-edge\attachments\video-7407dcfafa401c1c404d5e2456ef1a4fa633e1f8.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Scenario 3 - Required-field validation and successful submission" classname="assignment.spec.ts" time="13.339">
+<properties>
+<property name="assignment-discrepancy" value="PDF: &quot;Please fill in the fields&quot;; native chromium: &quot;Please fill out this field.&quot;. See docs/REQUIREMENTS.md.">
+</property>
+</properties>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\Final-screenshot-f1e0a2e2007d475e259b0ffc36dca5fbb294b0b3.png]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\trace-6e31af57f3ec69b4900199d3b1f691d634cbad9f.zip]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\console-log-7b233188db3f1679e389dca504bd5eb2d5652b91.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\network-log-88a7303be1ebaa4b9381f8758bf487119fb84016.json]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\Network-HAR-e0d5cfe405e9f876be9cbc62638a252c814c0199.har]]
+
+[[ATTACHMENT|..\test-results\local\assignment-Scenario-3---Re-e4163-n-and-successful-submission-local-edge\attachments\video-4b1c89118262451e940a94f7e0bd83d8a5e7a572.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

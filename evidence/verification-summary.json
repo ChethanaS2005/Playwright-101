@@ -1,0 +1,134 @@
+{
+  "hostOS": "Windows_NT 10.0.26300",
+  "playwrightVersion": "1.64.1",
+  "reportStats": {
+    "startTime": "2026-10-21T18:23:36.238Z",
+    "duration": 34398.677,
+    "expected": 6,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "runs": [
+    {
+      "project": "local-chromium",
+      "test": "Scenario 1 - Simple Form Demo echoes the message",
+      "started": "2026-10-21T18:23:38.482Z",
+      "finished": "2026-10-21T18:23:46.990Z",
+      "browserVersion": "156.0.8078.4",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 185,
+      "screenshot": "local-chromium-scenario-1.png"
+    },
+    {
+      "project": "local-edge",
+      "test": "Scenario 1 - Simple Form Demo echoes the message",
+      "started": "2026-10-21T18:23:38.597Z",
+      "finished": "2026-10-21T18:23:46.995Z",
+      "browserVersion": "155.0.4283.62",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 199,
+      "screenshot": "local-edge-scenario-1.png"
+    },
+    {
+      "project": "local-chromium",
+      "test": "Scenario 2 - Drag Default value 15 to 95",
+      "started": "2026-10-21T18:23:47.631Z",
+      "finished": "2026-10-21T18:23:54.796Z",
+      "browserVersion": "156.0.8078.4",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 144,
+      "screenshot": "local-chromium-scenario-2.png"
+    },
+    {
+      "project": "local-edge",
+      "test": "Scenario 2 - Drag Default value 15 to 95",
+      "started": "2026-10-21T18:23:48.975Z",
+      "finished": "2026-10-21T18:23:56.590Z",
+      "browserVersion": "155.0.4283.62",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 162,
+      "screenshot": "local-edge-scenario-2.png"
+    },
+    {
+      "project": "local-chromium",
+      "test": "Scenario 3 - Required-field validation and successful submission",
+      "started": "2026-10-21T18:23:55.173Z",
+      "finished": "2026-10-21T18:24:06.050Z",
+      "browserVersion": "156.0.8078.4",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 211,
+      "screenshot": "local-chromium-scenario-3.png"
+    },
+    {
+      "project": "local-edge",
+      "test": "Scenario 3 - Required-field validation and successful submission",
+      "started": "2026-10-21T18:23:57.745Z",
+      "finished": "2026-10-21T18:24:09.905Z",
+      "browserVersion": "155.0.4283.62",
+      "execution": "local",
+      "hostOS": "win32",
+      "cleanupErrors": [],
+      "artifacts": {
+        "screenshot": true,
+        "video": true,
+        "har": true,
+        "network": true,
+        "console": true,
+        "trace": true
+      },
+      "harEntries": 214,
+      "screenshot": "local-edge-scenario-3.png"
+    }
+  ]
+}
